@@ -36,7 +36,7 @@ class _NewsScreenState extends State<NewsScreen> {
             const Padding(
               padding: EdgeInsets.only(left: 30),
               child: Text(
-                'News',
+                'US News',
                 style: TextStyle(
                   fontSize: 50,
                 ),
